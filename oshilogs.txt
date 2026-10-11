@@ -1,0 +1,479 @@
+c[36m====================================================[0m
+[36m   ___  ____  _   _ ___   _        _    ____  ____   [0m
+[36m  / _ \/ ___|| | | |_ _| | |      / \  | __ )| ___|  [0m
+[36m | | | \___ \| |_| || |  | |     / _ \ |  _ \|___ \  [0m
+[36m | |_| |___) |  _  || |  | |___ / ___ \| |_) |___) | [0m
+[36m  \___/|____/|_| |_|___| |_____/_/   \_\____/|____/  [0m
+[36m====================================================[0m
+
+delay/task: 10s | limit: semua
+akun source: /home/runner/work/c21hcG9ja2VDaXRyYQ/c21hcG9ja2VDaXRyYQ/account.json | jumlah: 1
+mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch Anime, Read Article, Quiz Anime, Music Missions, Claim Missions, Check Eligibility, Read Manga, Get Gift, Setup Profile, Bind Wallet SEQUENSIAL
+
+
+===== [1/1] Citra =====
+[1]Citra       |07:59:05 | 11-10-2026| login OK @citrakrm | score=920 rank=6369
+[1]Citra       |07:59:05 | 11-10-2026| serverTime=2026-10-11T07:59:05.000Z local=2026-10-11T07:59:05.589Z
+--> [1]Citra menjalankan: Claim Daily
+[1]Citra       |07:59:06 | 11-10-2026| daily: sudah klaim (already=true) score=920
+--> [1]Citra menjalankan: Auto All Tasks (3 pending)
+[1]Citra       |07:59:09 | 11-10-2026| [1/3] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/citrakrm/status/2109191738496171253
+[1]Citra       |07:59:09 | 11-10-2026| delay 10s...
+[1]Citra       |07:59:24 | 11-10-2026| [2/3] 1499c73c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/citrakrm/status/2109191579711353432
+[1]Citra       |07:59:24 | 11-10-2026| delay 10s...
+[1]Citra       |07:59:37 | 11-10-2026| [3/3] e62ee4d9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/citrakrm/status/2109191607711512945
+[1]Citra       |07:59:37 | 11-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Citra       |07:59:38 | 11-10-2026| [1/1] 43abe690 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/citrakrm/status/2109191778902307620
+--> [1]Citra menjalankan: Watch Anime
+[1]Citra       |07:59:39 | 11-10-2026| watch: 1 video belum completed: oshi-first-journey
+[1]Citra       |07:59:39 | 11-10-2026| watch [1/1] farming oshi-first-journey...
+[1]Citra       |07:59:40 | 11-10-2026| watch oshi-first-journey: 0% (0.00/87.00s)
+[1]Citra       |07:59:47 | 11-10-2026| watch oshi-first-journey: 6% (5.41/87.00s)
+[1]Citra       |07:59:56 | 11-10-2026| watch oshi-first-journey: 12% (11.22/87.00s)
+[1]Citra       |08:00:03 | 11-10-2026| watch oshi-first-journey: 22% (19.54/87.00s)
+[1]Citra       |08:00:10 | 11-10-2026| watch oshi-first-journey: 29% (25.28/87.00s)
+[1]Citra       |08:00:19 | 11-10-2026| watch oshi-first-journey: 36% (31.79/87.00s)
+[1]Citra       |08:00:25 | 11-10-2026| watch oshi-first-journey: 43% (38.06/87.00s)
+[1]Citra       |08:00:31 | 11-10-2026| watch oshi-first-journey: 50% (43.69/87.00s)
+[1]Citra       |08:00:38 | 11-10-2026| watch oshi-first-journey: 56% (49.26/87.00s)
+[1]Citra       |08:00:45 | 11-10-2026| watch oshi-first-journey: 63% (55.00/87.00s)
+[1]Citra       |08:00:53 | 11-10-2026| watch oshi-first-journey: 71% (62.06/87.00s)
+[1]Citra       |08:01:01 | 11-10-2026| watch oshi-first-journey: 79% (69.06/87.00s)
+[1]Citra       |08:01:09 | 11-10-2026| watch oshi-first-journey: 87% (76.06/87.00s)
+[1]Citra       |08:01:18 | 11-10-2026| watch oshi-first-journey: 95% (83.50/87.00s)
+[1]Citra       |08:01:18 | 11-10-2026| watch oshi-first-journey: COMPLETED (83.50/87.00s)
+--> [1]Citra menjalankan: Read Article
+[1]Citra       |08:01:20 | 11-10-2026| news: 24/24 artikel selesai dibaca
+[1]Citra       |08:01:20 | 11-10-2026| mint eligibility: {"userId":"1776354422957932544","youtube":{"url":"https://www.youtube.com/@citrakarimaa","status":"submitted","revision":"2b58a9e2-6412-4b36-8d07-7e1f5cf135fe","submittedAt":1791675963,"reviewedAt":17
+[1]Citra       |08:01:20 | 11-10-2026| news: semua artikel sudah dibaca
+--> [1]Citra menjalankan: Quiz Anime
+[1]Citra       |08:01:21 | 11-10-2026| quiz ep1: sudah dijawab
+[1]Citra       |08:01:21 | 11-10-2026| quiz ep2: sudah dijawab
+[1]Citra       |08:01:21 | 11-10-2026| quiz ep3: sudah dijawab
+[1]Citra       |08:01:21 | 11-10-2026| quiz ep4: sudah dijawab
+[1]Citra       |08:01:21 | 11-10-2026| quiz ep5: sudah dijawab
+[1]Citra       |08:01:21 | 11-10-2026| quiz ep6: sudah dijawab
+--> [1]Citra menjalankan: Music Missions (realtime, bisa lama!)
+[1]Citra       |08:01:25 | 11-10-2026| music memutar "ぬくもり" (188s)...
+[1]Citra       |08:01:36 | 11-10-2026| music "ぬくもり": 4% (9.0054/188s)
+[1]Citra       |08:01:47 | 11-10-2026| music "ぬくもり": 10% (19.0278/188s)
+[1]Citra       |08:01:59 | 11-10-2026| music "ぬくもり": 15% (29.041199999999996/188s)
+[1]Citra       |08:02:14 | 11-10-2026| music "ぬくもり": 20% (39.302099999999996/188s)
+[1]Citra       |08:02:25 | 11-10-2026| music "ぬくもり": 28% (52.99379999999999/188s)
+[1]Citra       |08:02:37 | 11-10-2026| music "ぬくもり": 33% (63.2799/188s)
+[1]Citra       |08:02:48 | 11-10-2026| music "ぬくもり": 39% (74.1087/188s)
+[1]Citra       |08:03:00 | 11-10-2026| music "ぬくもり": 44% (84.051/188s)
+[1]Citra       |08:03:11 | 11-10-2026| music "ぬくもり": 50% (94.20660000000001/188s)
+[1]Citra       |08:03:24 | 11-10-2026| music "ぬくもり": 55% (104.733/188s)
+[1]Citra       |08:03:35 | 11-10-2026| music "ぬくもり": 61% (116.4483/188s)
+[1]Citra       |08:03:47 | 11-10-2026| music "ぬくもり": 67% (126.5085/188s)
+[1]Citra       |08:03:58 | 11-10-2026| music "ぬくもり": 72% (136.4868/188s)
+[1]Citra       |08:04:09 | 11-10-2026| music "ぬくもり": 77% (146.53799999999998/188s)
+[1]Citra       |08:04:21 | 11-10-2026| music "ぬくもり": 83% (156.5829/188s)
+[1]Citra       |08:04:23 | 11-10-2026| music "ぬくもり": selesai 156.5829s
+[1]Citra       |08:04:25 | 11-10-2026| music memutar "桃色の頃" (213s)...
+[1]Citra       |08:04:36 | 11-10-2026| music "桃色の頃": 4% (9.0009/213s)
+[1]Citra       |08:04:49 | 11-10-2026| music "桃色の頃": 8% (19.1646/213s)
+[1]Citra       |08:05:00 | 11-10-2026| music "桃色の頃": 14% (30.211199999999998/213s)
+[1]Citra       |08:05:12 | 11-10-2026| music "桃色の頃": 19% (40.7457/213s)
+[1]Citra       |08:05:25 | 11-10-2026| music "桃色の頃": 24% (51.594300000000004/213s)
+[1]Citra       |08:05:37 | 11-10-2026| music "桃色の頃": 29% (63.0234/213s)
+[1]Citra       |08:05:49 | 11-10-2026| music "桃色の頃": 34% (73.6209/213s)
+[1]Citra       |08:06:01 | 11-10-2026| music "桃色の頃": 39% (84.40020000000001/213s)
+[1]Citra       |08:06:16 | 11-10-2026| music "桃色の頃": 44% (95.78790000000001/213s)
+[1]Citra       |08:06:28 | 11-10-2026| music "桃色の頃": 50% (108.57780000000001/213s)
+[1]Citra       |08:06:39 | 11-10-2026| music "桃色の頃": 56% (119.37780000000001/213s)
+[1]Citra       |08:06:51 | 11-10-2026| music "桃色の頃": 60% (129.87720000000002/213s)
+[1]Citra       |08:07:04 | 11-10-2026| music "桃色の頃": 65% (140.0148/213s)
+[1]Citra       |08:07:16 | 11-10-2026| music "桃色の頃": 71% (151.95690000000002/213s)
+[1]Citra       |08:07:27 | 11-10-2026| music "桃色の頃": 76% (162.85770000000002/213s)
+[1]Citra       |08:07:40 | 11-10-2026| music "桃色の頃": 81% (173.19600000000003/213s)
+[1]Citra       |08:07:40 | 11-10-2026| music "桃色の頃": selesai 173.19600000000003s
+[1]Citra       |08:07:43 | 11-10-2026| music memutar "記憶の名前" (224s)...
+[1]Citra       |08:07:55 | 11-10-2026| music "記憶の名前": 4% (9.0036/224s)
+[1]Citra       |08:08:09 | 11-10-2026| music "記憶の名前": 8% (20.052/224s)
+[1]Citra       |08:08:22 | 11-10-2026| music "記憶の名前": 14% (32.5773/224s)
+[1]Citra       |08:08:36 | 11-10-2026| music "記憶の名前": 19% (44.0946/224s)
+[1]Citra       |08:08:47 | 11-10-2026| music "記憶の名前": 25% (56.437200000000004/224s)
+[1]Citra       |08:08:59 | 11-10-2026| music "記憶の名前": 29% (66.61890000000001/224s)
+[1]Citra       |08:09:13 | 11-10-2026| music "記憶の名前": 34% (76.85730000000001/224s)
+[1]Citra       |08:09:24 | 11-10-2026| music "記憶の名前": 40% (89.64000000000001/224s)
+[1]Citra       |08:09:34 | 11-10-2026| music "記憶の名前": 44% (99.38610000000001/224s)
+[1]Citra       |08:09:45 | 11-10-2026| music "記憶の名前": 48% (109.23210000000002/224s)
+[1]Citra       |08:09:57 | 11-10-2026| music "記憶の名前": 53% (119.13750000000002/224s)
+[1]Citra       |08:10:08 | 11-10-2026| music "記憶の名前": 57% (129.3264/224s)
+[1]Citra       |08:10:19 | 11-10-2026| music "記憶の名前": 62% (139.1733/224s)
+[1]Citra       |08:10:31 | 11-10-2026| music "記憶の名前": 66% (149.32350000000002/224s)
+[1]Citra       |08:10:42 | 11-10-2026| music "記憶の名前": 71% (160.48620000000003/224s)
+[1]Citra       |08:10:53 | 11-10-2026| music "記憶の名前": 76% (170.3232/224s)
+[1]Citra       |08:11:04 | 11-10-2026| music "記憶の名前": 80% (180.04950000000002/224s)
+[1]Citra       |08:11:05 | 11-10-2026| music "記憶の名前": 80% belum counted, lanjut ke 100%...
+[1]Citra       |08:11:16 | 11-10-2026| music "記憶の名前": 85% (190.40490000000003/224s)
+[1]Citra       |08:11:27 | 11-10-2026| music "記憶の名前": 89% (200.33820000000003/224s)
+[1]Citra       |08:11:39 | 11-10-2026| music "記憶の名前": 93% (210.11490000000003/224s)
+[1]Citra       |08:11:50 | 11-10-2026| music "記憶の名前": 98% (220.99230000000003/224s)
+[1]Citra       |08:12:01 | 11-10-2026| music "記憶の名前": 100% (224/224s)
+[1]Citra       |08:12:01 | 11-10-2026| music "記憶の名前": selesai 224s
+[1]Citra       |08:12:03 | 11-10-2026| music memutar "Smart Pocket" (232s)...
+[1]Citra       |08:12:15 | 11-10-2026| music "Smart Pocket": 3% (9.0036/232s)
+[1]Citra       |08:12:26 | 11-10-2026| music "Smart Pocket": 8% (19.209600000000002/232s)
+[1]Citra       |08:12:38 | 11-10-2026| music "Smart Pocket": 12% (29.0961/232s)
+[1]Citra       |08:12:50 | 11-10-2026| music "Smart Pocket": 17% (39.7926/232s)
+[1]Citra       |08:13:01 | 11-10-2026| music "Smart Pocket": 21% (50.5179/232s)
+[1]Citra       |08:13:11 | 11-10-2026| music "Smart Pocket": 26% (60.33239999999999/232s)
+[1]Citra       |08:13:22 | 11-10-2026| music "Smart Pocket": 30% (70.08569999999999/232s)
+[1]Citra       |08:13:33 | 11-10-2026| music "Smart Pocket": 34% (79.79849999999999/232s)
+[1]Citra       |08:13:44 | 11-10-2026| music "Smart Pocket": 38% (89.55179999999999/232s)
+[1]Citra       |08:13:55 | 11-10-2026| music "Smart Pocket": 42% (99.66869999999999/232s)
+[1]Citra       |08:14:06 | 11-10-2026| music "Smart Pocket": 47% (109.66409999999999/232s)
+[1]Citra       |08:14:18 | 11-10-2026| music "Smart Pocket": 51% (119.7027/232s)
+[1]Citra       |08:14:30 | 11-10-2026| music "Smart Pocket": 56% (130.4433/232s)
+[1]Citra       |08:14:41 | 11-10-2026| music "Smart Pocket": 60% (141.0948/232s)
+[1]Citra       |08:14:54 | 11-10-2026| music "Smart Pocket": 65% (150.8733/232s)
+[1]Citra       |08:15:05 | 11-10-2026| music "Smart Pocket": 70% (162.4059/232s)
+[1]Citra       |08:15:16 | 11-10-2026| music "Smart Pocket": 74% (172.32840000000002/232s)
+[1]Citra       |08:15:27 | 11-10-2026| music "Smart Pocket": 78% (182.24550000000002/232s)
+[1]Citra       |08:15:39 | 11-10-2026| music "Smart Pocket": 82% (191.97990000000001/232s)
+[1]Citra       |08:15:39 | 11-10-2026| music "Smart Pocket": selesai 191.97990000000001s
+[1]Citra       |08:15:43 | 11-10-2026| music memutar "神様みたいに" (254s)...
+[1]Citra       |08:15:54 | 11-10-2026| music "神様みたいに": 3% (9.0054/254s)
+[1]Citra       |08:16:04 | 11-10-2026| music "神様みたいに": 7% (18.7596/254s)
+[1]Citra       |08:16:15 | 11-10-2026| music "神様みたいに": 11% (28.4949/254s)
+[1]Citra       |08:16:28 | 11-10-2026| music "神様みたいに": 15% (38.421/254s)
+[1]Citra       |08:16:39 | 11-10-2026| music "神様みたいに": 19% (49.6152/254s)
+[1]Citra       |08:16:50 | 11-10-2026| music "神様みたいに": 23% (59.4027/254s)
+[1]Citra       |08:17:01 | 11-10-2026| music "神様みたいに": 27% (69.1911/254s)
+[1]Citra       |08:17:12 | 11-10-2026| music "神様みたいに": 31% (79.7895/254s)
+[1]Citra       |08:17:24 | 11-10-2026| music "神様みたいに": 35% (89.5176/254s)
+[1]Citra       |08:17:36 | 11-10-2026| music "神様みたいに": 39% (100.3518/254s)
+[1]Citra       |08:17:47 | 11-10-2026| music "神様みたいに": 43% (110.6442/254s)
+[1]Citra       |08:17:57 | 11-10-2026| music "神様みたいに": 47% (120.5604/254s)
+[1]Citra       |08:18:09 | 11-10-2026| music "神様みたいに": 51% (130.2714/254s)
+[1]Citra       |08:18:20 | 11-10-2026| music "神様みたいに": 55% (140.4693/254s)
+[1]Citra       |08:18:32 | 11-10-2026| music "神様みたいに": 59% (150.86520000000002/254s)
+[1]Citra       |08:18:44 | 11-10-2026| music "神様みたいに": 63% (161.5275/254s)
+[1]Citra       |08:18:55 | 11-10-2026| music "神様みたいに": 67% (171.7902/254s)
+[1]Citra       |08:19:06 | 11-10-2026| music "神様みたいに": 71% (182.0754/254s)
+[1]Citra       |08:19:17 | 11-10-2026| music "神様みたいに": 75% (191.8872/254s)
+[1]Citra       |08:19:29 | 11-10-2026| music "神様みたいに": 79% (201.6216/254s)
+[1]Citra       |08:19:40 | 11-10-2026| music "神様みたいに": 83% (212.409/254s)
+[1]Citra       |08:19:40 | 11-10-2026| music "神様みたいに": selesai 212.409s
+[1]Citra       |08:19:43 | 11-10-2026| music memutar "せーので、飛ぼう！" (269s)...
+[1]Citra       |08:19:54 | 11-10-2026| music "せーので、飛ぼう！": 3% (9.0054/269s)
+[1]Citra       |08:20:05 | 11-10-2026| music "せーので、飛ぼう！": 7% (19.003500000000003/269s)
+[1]Citra       |08:20:17 | 11-10-2026| music "せーので、飛ぼう！": 10% (28.742400000000004/269s)
+[1]Citra       |08:20:29 | 11-10-2026| music "せーので、飛ぼう！": 14% (39.3858/269s)
+[1]Citra       |08:20:42 | 11-10-2026| music "せーので、飛ぼう！": 18% (50.408100000000005/269s)
+[1]Citra       |08:20:53 | 11-10-2026| music "せーので、飛ぼう！": 22% (61.847100000000005/269s)
+[1]Citra       |08:21:04 | 11-10-2026| music "せーので、飛ぼう！": 26% (72.0639/269s)
+[1]Citra       |08:21:16 | 11-10-2026| music "せーので、飛ぼう！": 30% (81.9126/269s)
+[1]Citra       |08:21:27 | 11-10-2026| music "せーので、飛ぼう！": 34% (92.3886/269s)
+[1]Citra       |08:21:38 | 11-10-2026| music "せーので、飛ぼう！": 38% (102.6621/269s)
+[1]Citra       |08:21:49 | 11-10-2026| music "せーので、飛ぼう！": 41% (112.383/269s)
+[1]Citra       |08:22:00 | 11-10-2026| music "せーので、飛ぼう！": 45% (122.1147/269s)
+[1]Citra       |08:22:11 | 11-10-2026| music "せーので、飛ぼう！": 49% (132.5583/269s)
+[1]Citra       |08:22:22 | 11-10-2026| music "せーので、飛ぼう！": 52% (142.35750000000002/269s)
+[1]Citra       |08:22:34 | 11-10-2026| music "せーので、飛ぼう！": 56% (152.13330000000002/269s)
+[1]Citra       |08:22:45 | 11-10-2026| music "せーので、飛ぼう！": 60% (162.36540000000002/269s)
+[1]Citra       |08:22:56 | 11-10-2026| music "せーので、飛ぼう！": 64% (172.52730000000003/269s)
+[1]Citra       |08:23:07 | 11-10-2026| music "せーので、飛ぼう！": 67% (182.2932/269s)
+[1]Citra       |08:23:18 | 11-10-2026| music "せーので、飛ぼう！": 71% (192.222/269s)
+[1]Citra       |08:23:29 | 11-10-2026| music "せーので、飛ぼう！": 75% (202.4118/269s)
+[1]Citra       |08:23:42 | 11-10-2026| music "せーので、飛ぼう！": 79% (212.5386/269s)
+[1]Citra       |08:23:53 | 11-10-2026| music "せーので、飛ぼう！": 83% (224.1882/269s)
+[1]Citra       |08:23:54 | 11-10-2026| music "せーので、飛ぼう！": selesai 224.1882s
+[1]Citra       |08:24:01 | 11-10-2026| music memutar "ON CHAIN NEXUS" (276s)...
+[1]Citra       |08:24:12 | 11-10-2026| music "ON CHAIN NEXUS": 3% (9.0009/276s)
+[1]Citra       |08:24:23 | 11-10-2026| music "ON CHAIN NEXUS": 6% (18.7479/276s)
+[1]Citra       |08:24:36 | 11-10-2026| music "ON CHAIN NEXUS": 10% (29.062800000000003/276s)
+[1]Citra       |08:24:47 | 11-10-2026| music "ON CHAIN NEXUS": 14% (40.788900000000005/276s)
+[1]Citra       |08:25:00 | 11-10-2026| music "ON CHAIN NEXUS": 18% (51.041700000000006/276s)
+[1]Citra       |08:25:11 | 11-10-2026| music "ON CHAIN NEXUS": 22% (62.12610000000001/276s)
+[1]Citra       |08:25:22 | 11-10-2026| music "ON CHAIN NEXUS": 26% (72.2124/276s)
+[1]Citra       |08:25:34 | 11-10-2026| music "ON CHAIN NEXUS": 29% (82.3869/276s)
+[1]Citra       |08:25:45 | 11-10-2026| music "ON CHAIN NEXUS": 33% (93.07079999999999/276s)
+[1]Citra       |08:25:56 | 11-10-2026| music "ON CHAIN NEXUS": 37% (102.969/276s)
+[1]Citra       |08:26:07 | 11-10-2026| music "ON CHAIN NEXUS": 40% (113.05439999999999/276s)
+[1]Citra       |08:26:19 | 11-10-2026| music "ON CHAIN NEXUS": 44% (122.77349999999998/276s)
+[1]Citra       |08:26:30 | 11-10-2026| music "ON CHAIN NEXUS": 48% (133.3242/276s)
+[1]Citra       |08:26:42 | 11-10-2026| music "ON CHAIN NEXUS": 52% (143.7849/276s)
+[1]Citra       |08:26:54 | 11-10-2026| music "ON CHAIN NEXUS": 55% (154.368/276s)
+[1]Citra       |08:27:05 | 11-10-2026| music "ON CHAIN NEXUS": 59% (164.9655/276s)
+[1]Citra       |08:27:16 | 11-10-2026| music "ON CHAIN NEXUS": 63% (175.158/276s)
+[1]Citra       |08:27:27 | 11-10-2026| music "ON CHAIN NEXUS": 67% (185.10479999999998/276s)
+[1]Citra       |08:27:38 | 11-10-2026| music "ON CHAIN NEXUS": 70% (194.8284/276s)
+[1]Citra       |08:27:50 | 11-10-2026| music "ON CHAIN NEXUS": 74% (204.84089999999998/276s)
+[1]Citra       |08:28:01 | 11-10-2026| music "ON CHAIN NEXUS": 77% (215.19989999999999/276s)
+[1]Citra       |08:28:12 | 11-10-2026| music "ON CHAIN NEXUS": 81% (224.9253/276s)
+[1]Citra       |08:28:12 | 11-10-2026| music "ON CHAIN NEXUS": selesai 224.9253s
+[1]Citra       |08:28:14 | 11-10-2026| music: kedua misi sudah tercapai, stop
+[1]Citra       |08:28:16 | 11-10-2026| mission music-listens-10: CLAIM OK +10 poin
+[1]Citra       |08:28:20 | 11-10-2026| mission music-minutes-30: CLAIM OK +10 poin
+[1]Citra       |08:28:24 | 11-10-2026| mission anime-completed-3: CLAIM OK +10 poin
+--> [1]Citra menjalankan: Claim Missions
+[1]Citra       |08:28:29 | 11-10-2026| mission music-listens-10: sudah diklaim
+[1]Citra       |08:28:29 | 11-10-2026| mission music-minutes-30: sudah diklaim
+[1]Citra       |08:28:29 | 11-10-2026| mission anime-completed-3: sudah diklaim
+--> [1]Citra menjalankan: Check Eligibility
+
+--- eligibility [1]Citra ---
+  @citrakrm | score=920 rank=6369
+  tasks    [###################-] 73/76
+  mission  music-listens-10:      claimed
+  mission  music-minutes-30:      claimed
+  mission  anime-completed-3:     claimed
+  quiz     [####################] 6/6
+  watch    [####################] 18/17
+  music    [####################] 11/11
+  artikel  [####################] 24/24
+  mint: requirementsMet=false mintOpen=false discord=true
+
+--> [1]Citra menjalankan: Read Manga
+[1]Citra       |08:28:33 | 11-10-2026| manga: 13/13 chapter belum completed
+[1]Citra       |08:28:33 | 11-10-2026| manga [1/13] membaca ch.1 (19 hal)...
+[1]Citra       |08:28:42 | 11-10-2026| manga ch1 (1): page 1/19 (5%) 0s
+[1]Citra       |08:28:48 | 11-10-2026| manga ch1 (1): page 2/19 (10%) 5s
+[1]Citra       |08:28:52 | 11-10-2026| manga ch1 (1): page 3/19 (15%) 11s
+[1]Citra       |08:28:57 | 11-10-2026| manga ch1 (1): page 4/19 (21%) 15s
+[1]Citra       |08:29:02 | 11-10-2026| manga ch1 (1): page 5/19 (26%) 20s
+[1]Citra       |08:29:07 | 11-10-2026| manga ch1 (1): page 6/19 (31%) 26s
+[1]Citra       |08:29:11 | 11-10-2026| manga ch1 (1): page 7/19 (36%) 30s
+[1]Citra       |08:29:16 | 11-10-2026| manga ch1 (1): page 8/19 (42%) 34s
+[1]Citra       |08:29:20 | 11-10-2026| manga ch1 (1): page 9/19 (47%) 39s
+[1]Citra       |08:29:24 | 11-10-2026| manga ch1 (1): page 10/19 (52%) 43s
+[1]Citra       |08:29:28 | 11-10-2026| manga ch1 (1): page 11/19 (57%) 47s
+[1]Citra       |08:29:34 | 11-10-2026| manga ch1 (1): page 12/19 (63%) 52s
+[1]Citra       |08:29:40 | 11-10-2026| manga ch1 (1): page 13/19 (68%) 58s
+[1]Citra       |08:29:45 | 11-10-2026| manga ch1 (1): page 14/19 (73%) 63s
+[1]Citra       |08:29:49 | 11-10-2026| manga ch1 (1): page 15/19 (78%) 68s
+[1]Citra       |08:29:57 | 11-10-2026| manga ch1 (1): page 16/19 (84%) 73s
+[1]Citra       |08:30:01 | 11-10-2026| manga ch1 (1): page 17/19 (89%) 80s
+[1]Citra       |08:30:06 | 11-10-2026| manga ch1 (1): page 18/19 (94%) 84s
+[1]Citra       |08:30:12 | 11-10-2026| manga ch1 (1): page 19/19 (99%) 90s
+[1]Citra       |08:30:16 | 11-10-2026| manga ch1 (1): COMPLETED
+[1]Citra       |08:30:19 | 11-10-2026| manga [2/13] membaca ch.2 (18 hal)...
+[1]Citra       |08:30:25 | 11-10-2026| manga ch2 (450001): page 1/18 (5%) 0s
+[1]Citra       |08:30:30 | 11-10-2026| manga ch2 (450001): page 2/18 (11%) 5s
+[1]Citra       |08:30:34 | 11-10-2026| manga ch2 (450001): page 3/18 (16%) 9s
+[1]Citra       |08:30:39 | 11-10-2026| manga ch2 (450001): page 4/18 (22%) 14s
+[1]Citra       |08:30:46 | 11-10-2026| manga ch2 (450001): page 5/18 (27%) 19s
+[1]Citra       |08:30:52 | 11-10-2026| manga ch2 (450001): page 6/18 (33%) 25s
+[1]Citra       |08:30:58 | 11-10-2026| manga ch2 (450001): page 7/18 (38%) 32s
+[1]Citra       |08:31:04 | 11-10-2026| manga ch2 (450001): page 8/18 (44%) 38s
+[1]Citra       |08:31:09 | 11-10-2026| manga ch2 (450001): page 9/18 (50%) 44s
+[1]Citra       |08:31:14 | 11-10-2026| manga ch2 (450001): page 10/18 (55%) 49s
+[1]Citra       |08:31:20 | 11-10-2026| manga ch2 (450001): page 11/18 (61%) 54s
+[1]Citra       |08:31:25 | 11-10-2026| manga ch2 (450001): page 12/18 (66%) 60s
+[1]Citra       |08:31:30 | 11-10-2026| manga ch2 (450001): page 13/18 (72%) 65s
+[1]Citra       |08:31:35 | 11-10-2026| manga ch2 (450001): page 14/18 (77%) 70s
+[1]Citra       |08:31:40 | 11-10-2026| manga ch2 (450001): page 15/18 (83%) 74s
+[1]Citra       |08:31:45 | 11-10-2026| manga ch2 (450001): page 16/18 (88%) 79s
+[1]Citra       |08:31:52 | 11-10-2026| manga ch2 (450001): page 17/18 (94%) 85s
+[1]Citra       |08:31:56 | 11-10-2026| manga ch2 (450001): page 18/18 (99%) 91s
+[1]Citra       |08:32:01 | 11-10-2026| manga ch2 (450001): COMPLETED
+[1]Citra       |08:32:04 | 11-10-2026| manga [3/13] membaca ch.3 (17 hal)...
+[1]Citra       |08:32:09 | 11-10-2026| manga ch3 (2160001): page 1/17 (5%) 0s
+[1]Citra       |08:32:14 | 11-10-2026| manga ch3 (2160001): page 2/17 (11%) 5s
+[1]Citra       |08:32:19 | 11-10-2026| manga ch3 (2160001): page 3/17 (17%) 10s
+[1]Citra       |08:32:24 | 11-10-2026| manga ch3 (2160001): page 4/17 (23%) 15s
+[1]Citra       |08:32:28 | 11-10-2026| manga ch3 (2160001): page 5/17 (29%) 19s
+[1]Citra       |08:32:34 | 11-10-2026| manga ch3 (2160001): page 6/17 (35%) 23s
+[1]Citra       |08:32:39 | 11-10-2026| manga ch3 (2160001): page 7/17 (41%) 29s
+[1]Citra       |08:32:43 | 11-10-2026| manga ch3 (2160001): page 8/17 (47%) 35s
+[1]Citra       |08:32:48 | 11-10-2026| manga ch3 (2160001): page 9/17 (52%) 39s
+[1]Citra       |08:32:52 | 11-10-2026| manga ch3 (2160001): page 10/17 (58%) 43s
+[1]Citra       |08:32:56 | 11-10-2026| manga ch3 (2160001): page 11/17 (64%) 48s
+[1]Citra       |08:33:01 | 11-10-2026| manga ch3 (2160001): page 12/17 (70%) 52s
+[1]Citra       |08:33:06 | 11-10-2026| manga ch3 (2160001): page 13/17 (76%) 56s
+[1]Citra       |08:33:11 | 11-10-2026| manga ch3 (2160001): page 14/17 (82%) 62s
+[1]Citra       |08:33:16 | 11-10-2026| manga ch3 (2160001): page 15/17 (88%) 67s
+[1]Citra       |08:33:21 | 11-10-2026| manga ch3 (2160001): page 16/17 (94%) 72s
+[1]Citra       |08:33:25 | 11-10-2026| manga ch3 (2160001): page 17/17 (99%) 76s
+[1]Citra       |08:33:30 | 11-10-2026| manga ch3 (2160001): COMPLETED
+[1]Citra       |08:33:33 | 11-10-2026| manga [4/13] membaca ch.4 (17 hal)...
+[1]Citra       |08:33:39 | 11-10-2026| manga ch4 (2400001): page 1/17 (5%) 0s
+[1]Citra       |08:33:43 | 11-10-2026| manga ch4 (2400001): page 2/17 (11%) 5s
+[1]Citra       |08:33:48 | 11-10-2026| manga ch4 (2400001): page 3/17 (17%) 9s
+[1]Citra       |08:33:53 | 11-10-2026| manga ch4 (2400001): page 4/17 (23%) 14s
+[1]Citra       |08:33:58 | 11-10-2026| manga ch4 (2400001): page 5/17 (29%) 19s
+[1]Citra       |08:34:02 | 11-10-2026| manga ch4 (2400001): page 6/17 (35%) 24s
+[1]Citra       |08:34:06 | 11-10-2026| manga ch4 (2400001): page 7/17 (41%) 28s
+[1]Citra       |08:34:11 | 11-10-2026| manga ch4 (2400001): page 8/17 (47%) 32s
+[1]Citra       |08:34:16 | 11-10-2026| manga ch4 (2400001): page 9/17 (52%) 37s
+[1]Citra       |08:34:21 | 11-10-2026| manga ch4 (2400001): page 10/17 (58%) 43s
+[1]Citra       |08:34:25 | 11-10-2026| manga ch4 (2400001): page 11/17 (64%) 47s
+[1]Citra       |08:34:30 | 11-10-2026| manga ch4 (2400001): page 12/17 (70%) 51s
+[1]Citra       |08:34:35 | 11-10-2026| manga ch4 (2400001): page 13/17 (76%) 56s
+[1]Citra       |08:34:39 | 11-10-2026| manga ch4 (2400001): page 14/17 (82%) 61s
+[1]Citra       |08:34:44 | 11-10-2026| manga ch4 (2400001): page 15/17 (88%) 66s
+[1]Citra       |08:34:48 | 11-10-2026| manga ch4 (2400001): page 16/17 (94%) 70s
+[1]Citra       |08:34:53 | 11-10-2026| manga ch4 (2400001): page 17/17 (99%) 75s
+[1]Citra       |08:34:59 | 11-10-2026| manga ch4 (2400001): COMPLETED
+[1]Citra       |08:35:02 | 11-10-2026| manga [5/13] membaca ch.5 (18 hal)...
+[1]Citra       |08:35:09 | 11-10-2026| manga ch5 (2490001): page 1/18 (5%) 0s
+[1]Citra       |08:35:15 | 11-10-2026| manga ch5 (2490001): page 2/18 (11%) 6s
+[1]Citra       |08:35:20 | 11-10-2026| manga ch5 (2490001): page 3/18 (16%) 12s
+[1]Citra       |08:35:25 | 11-10-2026| manga ch5 (2490001): page 4/18 (22%) 17s
+[1]Citra       |08:35:30 | 11-10-2026| manga ch5 (2490001): page 5/18 (27%) 22s
+[1]Citra       |08:35:35 | 11-10-2026| manga ch5 (2490001): page 6/18 (33%) 27s
+[1]Citra       |08:35:39 | 11-10-2026| manga ch5 (2490001): page 7/18 (38%) 32s
+[1]Citra       |08:35:44 | 11-10-2026| manga ch5 (2490001): page 8/18 (44%) 37s
+[1]Citra       |08:35:48 | 11-10-2026| manga ch5 (2490001): page 9/18 (50%) 41s
+[1]Citra       |08:35:52 | 11-10-2026| manga ch5 (2490001): page 10/18 (55%) 45s
+[1]Citra       |08:35:58 | 11-10-2026| manga ch5 (2490001): page 11/18 (61%) 50s
+[1]Citra       |08:36:03 | 11-10-2026| manga ch5 (2490001): page 12/18 (66%) 55s
+[1]Citra       |08:36:08 | 11-10-2026| manga ch5 (2490001): page 13/18 (72%) 60s
+[1]Citra       |08:36:12 | 11-10-2026| manga ch5 (2490001): page 14/18 (77%) 65s
+[1]Citra       |08:36:17 | 11-10-2026| manga ch5 (2490001): page 15/18 (83%) 69s
+[1]Citra       |08:36:21 | 11-10-2026| manga ch5 (2490001): page 16/18 (88%) 74s
+[1]Citra       |08:36:26 | 11-10-2026| manga ch5 (2490001): page 17/18 (94%) 78s
+[1]Citra       |08:36:30 | 11-10-2026| manga ch5 (2490001): page 18/18 (99%) 83s
+[1]Citra       |08:36:34 | 11-10-2026| manga ch5 (2490001): COMPLETED
+[1]Citra       |08:36:37 | 11-10-2026| manga [6/13] membaca ch.6 (17 hal)...
+[1]Citra       |08:36:44 | 11-10-2026| manga ch6 (2610001): page 1/17 (5%) 0s
+[1]Citra       |08:36:48 | 11-10-2026| manga ch6 (2610001): page 2/17 (11%) 5s
+[1]Citra       |08:36:54 | 11-10-2026| manga ch6 (2610001): page 3/17 (17%) 9s
+[1]Citra       |08:36:58 | 11-10-2026| manga ch6 (2610001): page 4/17 (23%) 14s
+[1]Citra       |08:37:02 | 11-10-2026| manga ch6 (2610001): page 5/17 (29%) 19s
+[1]Citra       |08:37:06 | 11-10-2026| manga ch6 (2610001): page 6/17 (35%) 23s
+[1]Citra       |08:37:11 | 11-10-2026| manga ch6 (2610001): page 7/17 (41%) 27s
+[1]Citra       |08:37:16 | 11-10-2026| manga ch6 (2610001): page 8/17 (47%) 31s
+[1]Citra       |08:37:20 | 11-10-2026| manga ch6 (2610001): page 9/17 (52%) 36s
+[1]Citra       |08:37:25 | 11-10-2026| manga ch6 (2610001): page 10/17 (58%) 41s
+[1]Citra       |08:37:29 | 11-10-2026| manga ch6 (2610001): page 11/17 (64%) 46s
+[1]Citra       |08:37:34 | 11-10-2026| manga ch6 (2610001): page 12/17 (70%) 50s
+[1]Citra       |08:37:39 | 11-10-2026| manga ch6 (2610001): page 13/17 (76%) 55s
+[1]Citra       |08:37:43 | 11-10-2026| manga ch6 (2610001): page 14/17 (82%) 59s
+[1]Citra       |08:37:48 | 11-10-2026| manga ch6 (2610001): page 15/17 (88%) 64s
+[1]Citra       |08:37:52 | 11-10-2026| manga ch6 (2610001): page 16/17 (94%) 68s
+[1]Citra       |08:37:56 | 11-10-2026| manga ch6 (2610001): page 17/17 (99%) 73s
+[1]Citra       |08:38:02 | 11-10-2026| manga ch6 (2610001): COMPLETED
+[1]Citra       |08:38:05 | 11-10-2026| manga [7/13] membaca ch.1 (21 hal)...
+[1]Citra       |08:38:10 | 11-10-2026| manga ch1 (180003): page 1/21 (4%) 0s
+[1]Citra       |08:38:16 | 11-10-2026| manga ch1 (180003): page 2/21 (9%) 5s
+[1]Citra       |08:38:20 | 11-10-2026| manga ch1 (180003): page 3/21 (14%) 11s
+[1]Citra       |08:38:25 | 11-10-2026| manga ch1 (180003): page 4/21 (19%) 15s
+[1]Citra       |08:38:29 | 11-10-2026| manga ch1 (180003): page 5/21 (23%) 19s
+[1]Citra       |08:38:33 | 11-10-2026| manga ch1 (180003): page 6/21 (28%) 23s
+[1]Citra       |08:38:38 | 11-10-2026| manga ch1 (180003): page 7/21 (33%) 28s
+[1]Citra       |08:38:45 | 11-10-2026| manga ch1 (180003): page 8/21 (38%) 33s
+[1]Citra       |08:38:49 | 11-10-2026| manga ch1 (180003): page 9/21 (42%) 40s
+[1]Citra       |08:38:54 | 11-10-2026| manga ch1 (180003): page 10/21 (47%) 44s
+[1]Citra       |08:39:00 | 11-10-2026| manga ch1 (180003): page 11/21 (52%) 49s
+[1]Citra       |08:39:04 | 11-10-2026| manga ch1 (180003): page 12/21 (57%) 55s
+[1]Citra       |08:39:11 | 11-10-2026| manga ch1 (180003): page 13/21 (61%) 59s
+[1]Citra       |08:39:16 | 11-10-2026| manga ch1 (180003): page 14/21 (66%) 65s
+[1]Citra       |08:39:20 | 11-10-2026| manga ch1 (180003): page 15/21 (71%) 71s
+[1]Citra       |08:39:25 | 11-10-2026| manga ch1 (180003): page 16/21 (76%) 75s
+[1]Citra       |08:39:30 | 11-10-2026| manga ch1 (180003): page 17/21 (80%) 80s
+[1]Citra       |08:39:35 | 11-10-2026| manga ch1 (180003): page 18/21 (85%) 84s
+[1]Citra       |08:39:40 | 11-10-2026| manga ch1 (180003): page 19/21 (90%) 89s
+[1]Citra       |08:39:44 | 11-10-2026| manga ch1 (180003): page 20/21 (95%) 94s
+[1]Citra       |08:39:49 | 11-10-2026| manga ch1 (180003): page 21/21 (99%) 99s
+[1]Citra       |08:39:53 | 11-10-2026| manga ch1 (180003): COMPLETED
+[1]Citra       |08:39:56 | 11-10-2026| manga [8/13] membaca ch.2 (18 hal)...
+[1]Citra       |08:40:04 | 11-10-2026| manga ch2 (990005): page 1/18 (5%) 0s
+[1]Citra       |08:40:09 | 11-10-2026| manga ch2 (990005): page 2/18 (11%) 5s
+[1]Citra       |08:40:18 | 11-10-2026| manga ch2 (990005): page 3/18 (16%) 10s
+[1]Citra       |08:40:23 | 11-10-2026| manga ch2 (990005): page 4/18 (22%) 19s
+[1]Citra       |08:40:27 | 11-10-2026| manga ch2 (990005): page 5/18 (27%) 24s
+[1]Citra       |08:40:32 | 11-10-2026| manga ch2 (990005): page 6/18 (33%) 29s
+[1]Citra       |08:40:37 | 11-10-2026| manga ch2 (990005): page 7/18 (38%) 34s
+[1]Citra       |08:40:43 | 11-10-2026| manga ch2 (990005): page 8/18 (44%) 38s
+[1]Citra       |08:40:47 | 11-10-2026| manga ch2 (990005): page 9/18 (50%) 44s
+[1]Citra       |08:40:52 | 11-10-2026| manga ch2 (990005): page 10/18 (55%) 49s
+[1]Citra       |08:40:57 | 11-10-2026| manga ch2 (990005): page 11/18 (61%) 53s
+[1]Citra       |08:41:03 | 11-10-2026| manga ch2 (990005): page 12/18 (66%) 58s
+[1]Citra       |08:41:08 | 11-10-2026| manga ch2 (990005): page 13/18 (72%) 64s
+[1]Citra       |08:41:13 | 11-10-2026| manga ch2 (990005): page 14/18 (77%) 69s
+[1]Citra       |08:41:18 | 11-10-2026| manga ch2 (990005): page 15/18 (83%) 74s
+[1]Citra       |08:41:24 | 11-10-2026| manga ch2 (990005): page 16/18 (88%) 79s
+[1]Citra       |08:41:31 | 11-10-2026| manga ch2 (990005): page 17/18 (94%) 85s
+[1]Citra       |08:41:37 | 11-10-2026| manga ch2 (990005): page 18/18 (99%) 92s
+[1]Citra       |08:41:42 | 11-10-2026| manga ch2 (990005): COMPLETED
+[1]Citra       |08:41:45 | 11-10-2026| manga [9/13] membaca ch.3 (20 hal)...
+[1]Citra       |08:41:52 | 11-10-2026| manga ch3 (1980001): page 1/20 (5%) 0s
+[1]Citra       |08:41:58 | 11-10-2026| manga ch3 (1980001): page 2/20 (10%) 4s
+[1]Citra       |08:42:03 | 11-10-2026| manga ch3 (1980001): page 3/20 (15%) 10s
+[1]Citra       |08:42:08 | 11-10-2026| manga ch3 (1980001): page 4/20 (20%) 16s
+[1]Citra       |08:42:12 | 11-10-2026| manga ch3 (1980001): page 5/20 (25%) 20s
+[1]Citra       |08:42:18 | 11-10-2026| manga ch3 (1980001): page 6/20 (30%) 24s
+[1]Citra       |08:42:24 | 11-10-2026| manga ch3 (1980001): page 7/20 (35%) 30s
+[1]Citra       |08:42:31 | 11-10-2026| manga ch3 (1980001): page 8/20 (40%) 36s
+[1]Citra       |08:42:37 | 11-10-2026| manga ch3 (1980001): page 9/20 (45%) 43s
+[1]Citra       |08:42:42 | 11-10-2026| manga ch3 (1980001): page 10/20 (50%) 49s
+[1]Citra       |08:42:46 | 11-10-2026| manga ch3 (1980001): page 11/20 (55%) 54s
+[1]Citra       |08:42:50 | 11-10-2026| manga ch3 (1980001): page 12/20 (60%) 58s
+[1]Citra       |08:42:55 | 11-10-2026| manga ch3 (1980001): page 13/20 (65%) 63s
+[1]Citra       |08:43:01 | 11-10-2026| manga ch3 (1980001): page 14/20 (70%) 67s
+[1]Citra       |08:43:08 | 11-10-2026| manga ch3 (1980001): page 15/20 (75%) 74s
+[1]Citra       |08:43:12 | 11-10-2026| manga ch3 (1980001): page 16/20 (80%) 80s
+[1]Citra       |08:43:17 | 11-10-2026| manga ch3 (1980001): page 17/20 (85%) 85s
+[1]Citra       |08:43:21 | 11-10-2026| manga ch3 (1980001): page 18/20 (90%) 89s
+[1]Citra       |08:43:27 | 11-10-2026| manga ch3 (1980001): page 19/20 (95%) 93s
+[1]Citra       |08:43:31 | 11-10-2026| manga ch3 (1980001): page 20/20 (99%) 99s
+[1]Citra       |08:43:37 | 11-10-2026| manga ch3 (1980001): COMPLETED
+[1]Citra       |08:43:40 | 11-10-2026| manga [10/13] membaca ch.1 (9 hal)...
+[1]Citra       |08:43:52 | 11-10-2026| manga ch1 (2100001): page 1/9 (11%) 0s
+[1]Citra       |08:43:57 | 11-10-2026| manga ch1 (2100001): page 2/9 (22%) 9s
+[1]Citra       |08:44:02 | 11-10-2026| manga ch1 (2100001): page 3/9 (33%) 14s
+[1]Citra       |08:44:09 | 11-10-2026| manga ch1 (2100001): page 4/9 (44%) 19s
+[1]Citra       |08:44:15 | 11-10-2026| manga ch1 (2100001): page 5/9 (55%) 26s
+[1]Citra       |08:44:23 | 11-10-2026| manga ch1 (2100001): page 6/9 (66%) 32s
+[1]Citra       |08:44:28 | 11-10-2026| manga ch1 (2100001): page 7/9 (77%) 40s
+[1]Citra       |08:44:34 | 11-10-2026| manga ch1 (2100001): page 8/9 (88%) 45s
+[1]Citra       |08:44:38 | 11-10-2026| manga ch1 (2100001): page 9/9 (99%) 51s
+[1]Citra       |08:44:43 | 11-10-2026| manga ch1 (2100001): COMPLETED
+[1]Citra       |08:44:46 | 11-10-2026| manga [11/13] membaca ch.1 (10 hal)...
+[1]Citra       |08:44:52 | 11-10-2026| manga ch1 (2070001): page 1/10 (10%) 0s
+[1]Citra       |08:44:57 | 11-10-2026| manga ch1 (2070001): page 2/10 (20%) 5s
+[1]Citra       |08:45:01 | 11-10-2026| manga ch1 (2070001): page 3/10 (30%) 9s
+[1]Citra       |08:45:06 | 11-10-2026| manga ch1 (2070001): page 4/10 (40%) 14s
+[1]Citra       |08:45:12 | 11-10-2026| manga ch1 (2070001): page 5/10 (50%) 18s
+[1]Citra       |08:45:16 | 11-10-2026| manga ch1 (2070001): page 6/10 (60%) 25s
+[1]Citra       |08:45:21 | 11-10-2026| manga ch1 (2070001): page 7/10 (70%) 29s
+[1]Citra       |08:45:28 | 11-10-2026| manga ch1 (2070001): page 8/10 (80%) 34s
+[1]Citra       |08:45:33 | 11-10-2026| manga ch1 (2070001): page 9/10 (90%) 40s
+[1]Citra       |08:45:39 | 11-10-2026| manga ch1 (2070001): page 10/10 (99%) 46s
+[1]Citra       |08:45:44 | 11-10-2026| manga ch1 (2070001): COMPLETED
+[1]Citra       |08:45:47 | 11-10-2026| manga [12/13] membaca ch.2 (11 hal)...
+[1]Citra       |08:45:57 | 11-10-2026| manga ch2 (2520001): page 1/11 (9%) 0s
+[1]Citra       |08:46:02 | 11-10-2026| manga ch2 (2520001): page 2/11 (18%) 8s
+[1]Citra       |08:46:07 | 11-10-2026| manga ch2 (2520001): page 3/11 (27%) 13s
+[1]Citra       |08:46:11 | 11-10-2026| manga ch2 (2520001): page 4/11 (36%) 19s
+[1]Citra       |08:46:18 | 11-10-2026| manga ch2 (2520001): page 5/11 (45%) 23s
+[1]Citra       |08:46:24 | 11-10-2026| manga ch2 (2520001): page 6/11 (54%) 29s
+[1]Citra       |08:46:28 | 11-10-2026| manga ch2 (2520001): page 7/11 (63%) 35s
+[1]Citra       |08:46:33 | 11-10-2026| manga ch2 (2520001): page 8/11 (72%) 40s
+[1]Citra       |08:46:39 | 11-10-2026| manga ch2 (2520001): page 9/11 (81%) 44s
+[1]Citra       |08:46:44 | 11-10-2026| manga ch2 (2520001): page 10/11 (90%) 51s
+[1]Citra       |08:46:49 | 11-10-2026| manga ch2 (2520001): page 11/11 (99%) 55s
+[1]Citra       |08:46:54 | 11-10-2026| manga ch2 (2520001): COMPLETED
+[1]Citra       |08:46:57 | 11-10-2026| manga [13/13] membaca ch.3 (11 hal)...
+[1]Citra       |08:47:05 | 11-10-2026| manga ch3 (2550001): page 1/11 (9%) 0s
+[1]Citra       |08:47:11 | 11-10-2026| manga ch3 (2550001): page 2/11 (18%) 6s
+[1]Citra       |08:47:16 | 11-10-2026| manga ch3 (2550001): page 3/11 (27%) 12s
+[1]Citra       |08:47:21 | 11-10-2026| manga ch3 (2550001): page 4/11 (36%) 17s
+[1]Citra       |08:47:26 | 11-10-2026| manga ch3 (2550001): page 5/11 (45%) 22s
+[1]Citra       |08:47:35 | 11-10-2026| manga ch3 (2550001): page 6/11 (54%) 27s
+[1]Citra       |08:47:41 | 11-10-2026| manga ch3 (2550001): page 7/11 (63%) 36s
+[1]Citra       |08:47:47 | 11-10-2026| manga ch3 (2550001): page 8/11 (72%) 42s
+[1]Citra       |08:47:52 | 11-10-2026| manga ch3 (2550001): page 9/11 (81%) 48s
+[1]Citra       |08:47:57 | 11-10-2026| manga ch3 (2550001): page 10/11 (90%) 53s
+[1]Citra       |08:48:00 | 11-10-2026| manga ch3: page 11 GAGAL http=503
+[1]Citra       |08:48:10 | 11-10-2026| manga ch3 (2550001): COMPLETED
+--> [1]Citra menjalankan: Get Gift
+[1]Citra       |08:48:14 | 11-10-2026| gift: 3/3 belum diterima
+[1]Citra       |08:48:15 | 11-10-2026| gift [1/3] Oshii’s space studio overlooking Earth: OK
+[1]Citra       |08:48:21 | 11-10-2026| gift [2/3] Osshi animated stickers: OK
+[1]Citra       |08:48:26 | 11-10-2026| gift [3/3] Oshii and friends above the sunrise clouds: OK
+--> [1]Citra menjalankan: Setup Profile
+[1]Citra       |08:48:29 | 11-10-2026| profile: bio="" fav=- rewardAt=-
+[1]Citra       |08:48:32 | 11-10-2026| profile: OK bio="https://x.com/citrakrm" fav=kagura awarded=true +10pt
+--> [1]Citra menjalankan: Bind Wallet
+[1]Citra       |08:48:33 | 11-10-2026| wallet: derivasi dari privateKeySolana -> 2urPbzjXVumXKFYThLEqXp18TccgV7MvRhkp4gjhAGqh (cek cocok dengan wallet kamu!)
+[1]Citra       |08:48:33 | 11-10-2026| wallet: /api/wallet OK (solana)
+[1]Citra       |08:48:34 | 11-10-2026| wallet: /api/sol-address OK
+
+== RINGKASAN ==
+- Citra: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 1/1 completed | musik 7 trek ~1407.2813s | artikel 0 dibaca | manga 13/13 completed | gift 3/3 diterima | profile +10pt | wallet bound | mint req=false open=false
