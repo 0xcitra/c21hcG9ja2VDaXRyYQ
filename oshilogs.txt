@@ -12,45 +12,43 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Citra =====
-[1]Citra       |10:07:15 | 27-10-2026| login OK @citrakrm | score=2230 rank=3475
-[1]Citra       |10:07:15 | 27-10-2026| serverTime=2026-10-27T10:07:15.000Z local=2026-10-27T10:07:15.496Z
+[1]Citra       |10:54:08 | 28-10-2026| login OK @citrakrm | score=2300 rank=3411
+[1]Citra       |10:54:08 | 28-10-2026| serverTime=2026-10-28T10:54:08.000Z local=2026-10-28T10:54:08.608Z
 --> [1]Citra menjalankan: Claim Daily
-[1]Citra       |10:07:16 | 27-10-2026| daily: OK +10 poin score=2240
---> [1]Citra menjalankan: Auto All Tasks (6 pending)
-[1]Citra       |10:07:18 | 27-10-2026| [1/6] 569b202e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/citrakrm/status/2115022035325450733
-[1]Citra       |10:07:18 | 27-10-2026| delay 10s...
-[1]Citra       |10:07:30 | 27-10-2026| [2/6] 0c0c4157 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/citrakrm/status/2115021942006399799
-[1]Citra       |10:07:30 | 27-10-2026| delay 10s...
-[1]Citra       |10:07:42 | 27-10-2026| [3/6] affba66c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/citrakrm/status/2115022203544501174
-[1]Citra       |10:07:42 | 27-10-2026| delay 10s...
-[1]Citra       |10:07:54 | 27-10-2026| [4/6] 3a506cad (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/citrakrm/status/2115022139773212400
-[1]Citra       |10:07:54 | 27-10-2026| delay 10s...
-[1]Citra       |10:08:06 | 27-10-2026| [5/6] 6c6d6f6f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/citrakrm/status/2115022417312476613
-[1]Citra       |10:08:06 | 27-10-2026| delay 10s...
-[1]Citra       |10:08:18 | 27-10-2026| [6/6] f12f3018 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/citrakrm/status/2115022442248832129
-[1]Citra       |10:08:18 | 27-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Citra       |10:08:20 | 27-10-2026| [1/1] 569b202e (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2114962790477967 | proof=https://x.com/citrakrm/status/2115022156728417447
+[1]Citra       |10:54:09 | 28-10-2026| daily: OK +10 poin score=2310
+--> [1]Citra menjalankan: Auto All Tasks (5 pending)
+[1]Citra       |10:54:11 | 28-10-2026| [1/5] c0149815 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"c0149815-9b6d-429d-b902-7bcf127bb0fc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211539214009231 | proof=https://x.com/citrakrm/status/2115396187121278135
+[1]Citra       |10:54:11 | 28-10-2026| delay 10s...
+[1]Citra       |10:54:22 | 28-10-2026| [2/5] 87ae8b6e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"c0149815-9b6d-429d-b902-7bcf127bb0fc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211539214009231 | proof=https://x.com/citrakrm/status/2115396365925674614
+[1]Citra       |10:54:22 | 28-10-2026| delay 10s...
+[1]Citra       |10:54:34 | 28-10-2026| [3/5] 1c315c65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"c0149815-9b6d-429d-b902-7bcf127bb0fc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211539214009231 | proof=https://x.com/citrakrm/status/2115396489568654276
+[1]Citra       |10:54:34 | 28-10-2026| delay 10s...
+[1]Citra       |10:54:45 | 28-10-2026| [4/5] 3f7b08ea (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"c0149815-9b6d-429d-b902-7bcf127bb0fc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211539214009231 | proof=https://x.com/citrakrm/status/2115396319606117264
+[1]Citra       |10:54:45 | 28-10-2026| delay 10s...
+[1]Citra       |10:54:56 | 28-10-2026| [5/5] 84429acd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"c0149815-9b6d-429d-b902-7bcf127bb0fc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211539214009231 | proof=https://x.com/citrakrm/status/2115396556388746618
+[1]Citra       |10:54:56 | 28-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Citra       |10:54:58 | 28-10-2026| [1/1] c0149815 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"c0149815-9b6d-429d-b902-7bcf127bb0fc","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2115392140092317 | proof=https://x.com/citrakrm/status/2115396445229973638
 --> [1]Citra menjalankan: Watch Anime
-[1]Citra       |10:08:21 | 27-10-2026| watch: semua video sudah completed
+[1]Citra       |10:54:58 | 28-10-2026| watch: semua video sudah completed
 --> [1]Citra menjalankan: Read Article
-[1]Citra       |10:08:22 | 27-10-2026| news: 30/30 artikel selesai dibaca
-[1]Citra       |10:08:23 | 27-10-2026| mint eligibility: {"userId":"1776354422957932544","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@citrakarimaa","status":"submitted","revision":"2b58a9e2-6412-4b36-8d07-7e1f5cf13
-[1]Citra       |10:08:23 | 27-10-2026| news: semua artikel sudah dibaca
+[1]Citra       |10:55:00 | 28-10-2026| news: 30/30 artikel selesai dibaca
+[1]Citra       |10:55:00 | 28-10-2026| mint eligibility: {"userId":"1776354422957932544","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@citrakarimaa","status":"submitted","revision":"2b58a9e2-6412-4b36-8d07-7e1f5cf13
+[1]Citra       |10:55:00 | 28-10-2026| news: semua artikel sudah dibaca
 --> [1]Citra menjalankan: Quiz Anime
 --> [1]Citra menjalankan: Music Missions (realtime, bisa lama!)
-[1]Citra       |10:08:25 | 27-10-2026| music: kedua misi sudah tercapai, stop
-[1]Citra       |10:08:26 | 27-10-2026| mission music-listens-10: sudah diklaim
-[1]Citra       |10:08:26 | 27-10-2026| mission music-minutes-30: sudah diklaim
-[1]Citra       |10:08:26 | 27-10-2026| mission anime-completed-3: sudah diklaim
+[1]Citra       |10:55:03 | 28-10-2026| music: kedua misi sudah tercapai, stop
+[1]Citra       |10:55:04 | 28-10-2026| mission music-listens-10: sudah diklaim
+[1]Citra       |10:55:04 | 28-10-2026| mission music-minutes-30: sudah diklaim
+[1]Citra       |10:55:04 | 28-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Citra menjalankan: Claim Missions
-[1]Citra       |10:08:27 | 27-10-2026| mission music-listens-10: sudah diklaim
-[1]Citra       |10:08:27 | 27-10-2026| mission music-minutes-30: sudah diklaim
-[1]Citra       |10:08:27 | 27-10-2026| mission anime-completed-3: sudah diklaim
+[1]Citra       |10:55:04 | 28-10-2026| mission music-listens-10: sudah diklaim
+[1]Citra       |10:55:04 | 28-10-2026| mission music-minutes-30: sudah diklaim
+[1]Citra       |10:55:04 | 28-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Citra menjalankan: Check Eligibility
 
 --- eligibility [1]Citra ---
-  @citrakrm | score=2230 rank=3475
-  tasks    [############--------] 9/15
+  @citrakrm | score=2300 rank=3411
+  tasks    [##############------] 11/16
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -61,14 +59,15 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Citra menjalankan: Read Manga
-[1]Citra       |10:08:30 | 27-10-2026| manga: 0/13 chapter belum completed
+[1]Citra       |10:55:08 | 28-10-2026| manga: 0/13 chapter belum completed
 --> [1]Citra menjalankan: Get Gift
-[1]Citra       |10:08:31 | 27-10-2026| gift: 0/4 belum diterima
+[1]Citra       |10:55:08 | 28-10-2026| gift: 1/5 belum diterima
+[1]Citra       |10:55:09 | 28-10-2026| gift [1/1] Oshii animated GIFs: OK
 --> [1]Citra menjalankan: Setup Profile
-[1]Citra       |10:08:31 | 27-10-2026| profile: bio="https://x.com/citrakrm" fav=kagura rewardAt=1791708511
-[1]Citra       |10:08:31 | 27-10-2026| profile: bonus sudah diklaim, skip
+[1]Citra       |10:55:11 | 28-10-2026| profile: bio="https://x.com/citrakrm" fav=kagura rewardAt=1791708511
+[1]Citra       |10:55:11 | 28-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Citra menjalankan: Bind Wallet
-[1]Citra       |10:08:32 | 27-10-2026| wallet: sudah terikat 2urPbzjXVu... (solana)
+[1]Citra       |10:55:12 | 28-10-2026| wallet: sudah terikat 2urPbzjXVu... (solana)
 
 == RINGKASAN ==
-- Citra: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Citra: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/5 diterima | profile - | wallet bound | mint req=false open=false
